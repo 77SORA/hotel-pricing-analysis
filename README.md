@@ -39,7 +39,7 @@ The dashboard helps support pricing strategy decisions through interactive visua
 ---
 
 ## 📷 Dashboard Preview
-Dashboard screenshots will be added here.
+
 ![Tourism Dashboard](images/51adc4b5-47a4-46bb-8f72-ae8b48f7d76c.jpeg)
 
 ---
